@@ -1,0 +1,12 @@
+.main-header {
+    display:flex;
+    flex-direction:row;
+    min-height:5rem;
+    padding:1.5rem 1rem;
+    border-bottom:1px solid var(--border-soft);
+}
+
+.main-header-title {
+    font-size:var(--font-size-m);
+    letter-spacing:-0.035rem;
+}
